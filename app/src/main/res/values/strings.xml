@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">こんにちは世界</string>
-    <string name="text">VeryNice</string>
-    <string name="text1">Beautiful</string>
+    <string name="text">TextView</string>
 </resources>
